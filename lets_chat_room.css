@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(red , orange , yellow);
+}
+
+#output{
+    background-color: lightgreen;
+    color: darkmagenta;
+}
+
+.header{
+    background-color: lightskyblue;
+    color: darkorchid;
+}
